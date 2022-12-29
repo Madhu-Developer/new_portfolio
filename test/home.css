@@ -1,0 +1,30 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(0, 0, 0, 0.168);
+    margin: -8px; 
+    position: sticky;
+}
+
+.heading{
+    display: flex;
+    font-size: larger;
+   
+}
+
+.title{
+    padding-right: 24px;
+    color:white;
+}
+
+
+.home{
+    background-size: cover;
+    background-image: url('bg-img.png');
+    margin: -25px -8px 0px -8px ;   
+}
+.content{
+    font-family: 'Courier New', Courier, monospace;
+    color:white;
+}
+

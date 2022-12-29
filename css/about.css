@@ -1,0 +1,25 @@
+
+.textcontent{
+    padding: 10px 0px 0px 80px;
+    
+    color:white;
+    font-size: 25px;
+}
+.clg{
+    background-color:rgba(0, 0, 0, 0.485);
+    width: 60%;
+    height: 100%;
+    padding: 20px;
+    border-radius: 10px;
+    margin-left: 250px;
+}
+.content-about{
+    color:white;
+    
+}
+.edu-clg{
+    padding-top: 5px;
+    padding-left: 110px;
+    padding-bottom: 5px;
+    font-size: 20px;
+}
