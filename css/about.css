@@ -1,25 +1,43 @@
-
-.textcontent{
+.textcontent {
     padding: 10px 0px 0px 80px;
-    
-    color:white;
+    color: white;
     font-size: 25px;
 }
-.clg{
-    background-color:rgba(0, 0, 0, 0.485);
+
+.clg {
+    background-color: rgba(0, 0, 0, 0.596);
     width: 60%;
     height: 100%;
     padding: 20px;
     border-radius: 10px;
     margin-left: 250px;
 }
-.content-about{
-    color:white;
-    
+
+.content-about {
+    color: white;
+
 }
-.edu-clg{
+
+.edu-clg {
     padding-top: 5px;
     padding-left: 110px;
     padding-bottom: 5px;
     font-size: 20px;
+    line-height: 10px;
+}
+
+.btn-dow {
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    padding: 10px;
+    color: black;
+    background-color: rgba(255, 255, 255, 0.596);
+    border-radius:10px
+}
+
+.btn {
+    padding-left: 600px;
+    margin-top: 30px;
+    margin-bottom: 40px;
 }

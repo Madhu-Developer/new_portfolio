@@ -6,5 +6,6 @@ include "libs/load.php";
 <body>
 <?php load_template('_home')?>
 <?php load_template('_about'); ?>
+<?php load_template('_skill'); ?>
 </body>
 </html>

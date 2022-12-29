@@ -5,7 +5,7 @@
     <div class="heading">
         <a href="#home" style="text-decoration: none;"><h3 class="title">Home</h3></a>
         <a href="#about" style="text-decoration: none;"><h3 class="title">About me</h3></a>
-        <a href="#home" style="text-decoration: none;"><h3 class="title">Skills</h3></a>
+        <a href="#skills" style="text-decoration: none;"><h3 class="title">Skills</h3></a>
         <a href="#home" style="text-decoration: none;"><h3 class="title">Contact</h3></a>
     </div>
 </div>
