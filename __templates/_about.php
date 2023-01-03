@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="./css/about.css">
-<div id="about" class="about" style="background-image: url(./image/about.jpg); margin: -25px -8px 0px -8px ;overflow-x: hidden;overflow-y:scroll;height:700px;">
+<div id="about" class="about" style="background-image: url(./image/about.jpg); margin: -25px -8px 0px -8px ;width:1515px;overflow-y:scroll;overflow-x: hidden;height:700px">
     <div class="textcontent">
         <h1>About me</h1>
     </div>
@@ -37,9 +37,9 @@
             </div>
         </div>
         <div class="btn">
-            <button style="background-color: rgba(0, 0, 0, 0.596); ">
+            
             <a class="btn-dow" href="./_files/resume_photo.pdf">Click to Download</a>
-            </button>
+            
             <!-- <button class="btn" type="button" href="resume_photo.pdf" style="background-color:rgba(0, 0, 0, 0.596);color:white;padding: 7px ;
             font-size:35px;padding-left:5px;margin:25px 0px 50px 550px;border-radius: 10px;font-family:'Times New Roman', Times, serif" download>Click to Download</button> -->
         </div>
