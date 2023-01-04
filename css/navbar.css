@@ -1,29 +1,38 @@
-.navbar{
+.navbar {
     display: flex;
     justify-content: space-between;
     background-color: rgba(0, 0, 0, 0.168);
-    margin: 0%; 
+    margin: 0%;
     height: 75px;
     position: fixed;
-    width: 1522px;
+    width: 100%;
 }
 
-.heading{
+.heading {
     padding-top: 10px;
     display: flex;
     font-size: larger;
     padding-right: 10px;
-    
+
 }
 
-.title{
+.title {
     padding-right: 24px;
-    color:white;
+    color: white;
 }
 
-.navbar img{
+.navbar img {
     padding-top: 22px;
     padding-left: 20px;
     height: 50px;
     width: 75px;
+}
+
+@media screen and (max-width:600px) {
+    .navbar img {
+        padding-top: 22px;
+        padding-left: 20px;
+        height: 50px;
+        width: 75px;
+    }
 }

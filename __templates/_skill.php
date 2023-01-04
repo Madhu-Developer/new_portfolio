@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="./css/skill.css">
-<div class="skill" id="skills" style="background-image: url('./image/bg-skills.jpg'); width:1515px;  margin: 0px -8px 0px -8px ;">
+<div class="skill" id="skills" >
     <div class="skill-con">
         <h1>Skills</h1>
     </div>

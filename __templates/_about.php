@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="./css/about.css">
-<div id="about" class="about" style="background-image: url(./image/about.jpg); margin: -25px -8px 0px -8px ;width:1515px;overflow-y:scroll;overflow-x: hidden;height:700px">
+<div id="about" class="about" style="background-image: url(./image/about.jpg); margin: -25px -8px 0px -8px ;width:100%;height:1200px">
     <div class="textcontent">
         <h1>About me</h1>
     </div>

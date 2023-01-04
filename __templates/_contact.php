@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="./css/contact.css">
 
-<div class="contact" style="background-image: url('./image/bg-Contact.png'); margin: -25px -8px 0px -8px ; height:300px;width:1515px;">
+<div class="contact" style="background-image: url('./image/bg-Contact.png'); margin: -25px -8px 0px -8px ; height:300px;width:100%;">
     <div class="con-text">
         <h1>Contact</h1>
     </div>
