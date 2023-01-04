@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="./css/home.css">
 
-<div class="div1" style="background-image: url('./image/bg-img.png'); margin: -25px -8px 0px -8px ; height: 650px; ">
+<div class="div1" style="background-image: url('./image/bg-img.png'); width:1515px;margin: -25px -8px 0px -8px ; height: 650px; ">
     <div class="home">
         <?php load_template('_navbar') ?>
         <div class="dis-content" id="home">
